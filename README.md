@@ -53,7 +53,7 @@ The dashboard supports data-driven decision-making by enabling stakeholders to m
 
 ## 📷 Dashboard Preview
 
-![Healthcare Dashboard Overview](Screenshots/dashboard_preview.png)
+![Healthcare Dashboard Overview](Dashboard_Preview.png)
 
 📌 This dashboard enables hospital management to monitor performance by location, treatment type, and cost—providing visibility into both operational and financial aspects of care delivery.
 
