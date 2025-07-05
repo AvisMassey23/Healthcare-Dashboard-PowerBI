@@ -7,6 +7,14 @@ The dashboard supports data-driven decision-making by enabling stakeholders to m
 
 ---
 
+## 📷 Dashboard Preview
+
+![Healthcare Dashboard Overview](Dashboard_Preview.png)
+
+📌 This dashboard enables hospital management to monitor performance by location, treatment type, and cost—providing visibility into both operational and financial aspects of care delivery.
+
+---
+
 ## 🎯 Project Objectives
 
 ✅ Analyze patient visits, revenue, and insurance coverage  
@@ -50,15 +58,6 @@ The dashboard supports data-driven decision-making by enabling stakeholders to m
 - Filter visuals by multiple fields for custom reporting  
 
 ---
-
-## 📷 Dashboard Preview
-
-![Healthcare Dashboard Overview](Dashboard_Preview.png)
-
-📌 This dashboard enables hospital management to monitor performance by location, treatment type, and cost—providing visibility into both operational and financial aspects of care delivery.
-
----
-
 
 ## 💡 How to Use
 
